@@ -43,6 +43,8 @@ AMPS will pull as much electricity needed, but voltage will give you just everyt
 >"Look on the back of the one of your device charges, you might see something like 1 or 2.1a. Charging a device with 2.1 amps will actually charge a device faster because it's able to put current from a 2.1 amp than a 1 amp charger".
 
 ## Wattage
+<sub>In spanish: Potencia</sub>
+
 **The amount of volts and amps that a device needs.**
 If your power supply has too low of a wattage, you won't be able to power your computer, so make sure you have enough. This doesn't mean that if you have a large power supply, you'll overpower your computer. Power supplies just give you the amount that your system needs. It's best to error on the side of large power supplies. You can power most basic desktops with a 500 watt power supply, but if you're doing something more demanding on your computer, like playing a high-resolution video game or doing a lot of video production and rendering, you'll likely need a bigger power supply for your computer. On the other hand, if all you're doing is just browsing the Web, the power supply that comes with your computer should be fine. All kinds of issues are caused by a bad power supply. Sometimes the computer doesn't even turn on at all. Since power supplies can fail for lots of reasons like burnouts, power surges, or even lightning strikes, knowing how to diagnose power issues and replace a failed power supply is a skill every IT support specialist should have in their toolbox.
 
